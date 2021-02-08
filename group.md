@@ -23,7 +23,7 @@ Current members of my group and alumni (listing first job, linking to current jo
     
 **Undergraduates and MS Students at Temple**
 
-* Srikar Katta (BS Economics)
+* [Srikar Katta](https://kattasa.github.io/) (BS in Math & Computer Science, BA in Economics)
 * Tanique Hudson (BS Statistics, 2020)
 * Patrick O’Brien (BS Statistics, 2020)
 * Sarah G Hurd (BS Nursing, Statistics minor, 2019). K Schroeder advisor
