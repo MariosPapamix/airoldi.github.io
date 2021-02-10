@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://airoldi.github.io" # the base hostname & protocol for your site
 google_scholar_id: XKCyZk0AAAAJ&hl
 arxiv_url:  "https://arxiv.org/a/airoldi_e_1"
+wiki_url:  "https://en.wikipedia.org/wiki/Edoardo_Airoldi"
 # github_username:  airoldi
 # twitter_username:  eairoldi
 # orchid_id:  0000-0002-3512-0542
