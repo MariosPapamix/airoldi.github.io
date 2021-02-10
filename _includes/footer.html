@@ -25,7 +25,15 @@
                         </a>
                     </li>
                     {% endif %}
-                    
+
+                    {% if site.wiki_id %}
+                    <li>
+                        <a href={{ site.wiki_id }} target="_blank">
+                            <i class="fa fa-wikipedia-w" aria-hidden="true"></i> wikipedia
+                        </a>
+                    </li>
+                    {% endif %}
+
                     {% if site.github_username %}
                     <li>
                         <a href="https://github.com/{{ site.github_username }}">
