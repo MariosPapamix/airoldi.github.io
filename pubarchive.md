@@ -13,12 +13,14 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
         h-index:             45              37                                              
         i10-index:           94              76                                               
 
-<div class="language-plaintext highlighter-rouge" width="100%"><pre class="highlight"><code>    Some summary statistics:
+<div class="language-plaintext highlighter-rouge" width="100%">
+<code>
+    Some summary statistics:
                         All      Since 2016
     Citaions:        25,215          17,620
     h-index:             45              37
     i10-index:           94              76 
-</code></pre></div>
+</code></div>
 
 <ol reversed>
 <h3><b><u>2020</u></b></h3>
