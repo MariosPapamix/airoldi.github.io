@@ -4,7 +4,8 @@ title: Archive of Scholarly Work
 permalink: /pubarchive/
 ---
 
-An up-to-date list of my scholarly work can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a copy linked to PDFs. (updated Feb 13, 2021)
+An up-to-date list of my scholarly work can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a local copy linked to PDFs. 
+(Last updated on February 13, 2021)
 
 <ol reversed>
  <h3>2020</h3>
