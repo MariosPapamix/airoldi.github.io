@@ -7,10 +7,9 @@ permalink: /research/
 Over 150 publications, including refereed workshop and conference publications, can be found on my [Google Scholar profile](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate), or locally on [this page](https://airoldi.github.io/pubarchive/). 
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 
-<ol reversed>
-
 **Selected Publications**   
 
+<ol reversed>
 85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. [**Causal inference with bipartite designs**](https://arxiv.org/abs/2010.02108). ***arXiv*** no. 2010.02108, 2020.
 
 84.    D Tran✝, P Toulis✝, EM Airoldi. [**Stochastic gradient descent methods for parameter estimation at scale**](https://cran.r-project.org/web/packages/sgd/vignettes/sgd-jss.pdf). ***Journal of Statistical Software***. In press, 2020.
@@ -180,7 +179,6 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 2.    B Malin, EM Airoldi, KM Carley. A social network analysis model for name disambiguation in lists. Journal of Computational and Mathematical Organization Theory. 11, 119-139, 2005. 
 
 1.    EM Airoldi, C Faloutsos. Network tomography: Recovering latent time series from their observed sums. ACM International Conference on Knowledge Discovery & Data Mining (KDD), Seattle WA, 2004. 
-
 </ol>
 
 **Edited Books and Monographs**
