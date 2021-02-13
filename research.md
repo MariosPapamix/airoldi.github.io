@@ -7,6 +7,7 @@ permalink: /research/
 Over 150 publications, including refereed workshop and conference publications, can be found on my [Google Scholar profile](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate), or locally on [this page](https://airoldi.github.io/pubarchive/). 
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 
+<ol reversed>
 
 **Selected Publications**   
 
@@ -180,6 +181,7 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 1.    EM Airoldi, C Faloutsos. Network tomography: Recovering latent time series from their observed sums. ACM International Conference on Knowledge Discovery & Data Mining (KDD), Seattle WA, 2004. 
 
+</ol>
 
 **Edited Books and Monographs**
 
