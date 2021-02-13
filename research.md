@@ -7,6 +7,12 @@ permalink: /research/
 Over 150 publications, including refereed workshop and conference publications, can be found on my [Google Scholar profile](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate), or locally on [this page](https://airoldi.github.io/pubarchive/). 
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 
+**TEST**
+
+<li><p>X Bai, R Padman, E <b>Airoldi</b> (2005) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=1697489505379085742&btnI=1&hl=en">On learning parsimonious models for extracting consumer opinions</a>, <b><i>Proceedings of the</i></b>, 38th Annual Hawaii International Conference on System …. (36 cit.)</p></li>
+
+<li><p>EM <b>Airoldi</b>, WW Cohen, SE Fienberg (2005) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=788661879881096055,4839454723649040170,12788186108121214717&btnI=1&hl=en">Bayesian models for frequent terms in text</a>, <b><i>Proceedings of the Classification Society of North America and INTERFACE …</i></b>, . (31 cit.)</p></li>
+
 **Selected Publications**   
 
 85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. [**Causal inference with bipartite designs**](https://arxiv.org/abs/2010.02108). ***arXiv*** no. 2010.02108, 2020.
