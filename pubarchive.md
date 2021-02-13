@@ -6,7 +6,8 @@ permalink: /pubarchive/
 
 Over 150 publications, including refereed workshop and conference publications, can be found on my [Google Scholar profile](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a local copy, updated periopdically, with link to PDFs.
 
- <h3>2020</h3>
+<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">
+<h3>2020</h3>
 <li><p>L Forastiere, EM <b>Airoldi</b>, F Mealli (2020) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en">Identification and estimation of treatment and interference effects in observational studies on networks</a>, <b><i>Journal of the American Statistical Association</i></b>, 1-18. (57 cit.)</p></li>
 <li><p>P Toulis, T Horel, EM <b>Airoldi</b> (2020) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=2027939308310743828,12935949097048667450&btnI=1&hl=en">The proximal Robbins-Monro method</a>, <b><i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i></b>, . (14 cit.)</p></li>
 <li><p>A Ghasemian, H Hosseinmardi, A Galstyan, EM <b>Airoldi</b>, A Clauset (2020) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=8033935244448787502&btnI=1&hl=en">Stacking models for nearly optimal link prediction in complex networks</a>, <b><i>Proceedings of the National Academy of Sciences</i></b>, 117 (38), 23393-23400. (11 cit.)</p></li>
@@ -178,7 +179,8 @@ Over 150 publications, including refereed workshop and conference publications, 
 <li><p>EM <b>Airoldi</b> (2004) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en">Notes on the Negative Binomial distribution for word occurrences</a>, <b><i></i></b>, . (0 cit.)</p></li>
 <h3>2003</h3>
 <li><p>EM <b>Airoldi</b> (2003) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=11916845835407455972&btnI=1&hl=en">Who Wrote Ronald Reagan's Radio Addresses?</a>, <b><i>Carnegie Mellon University, Department of Statistics</i></b>, . (7 cit.)</p></li>
-<li><p>EM <b>Airoldi</b> (2003) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=3363315757275346877&btnI=1&hl=en">Advances in network tomography</a>, <b><i>Carnegie Mellon University. Center for Automated Learning and Discovery</i></b>, . (4 cit.)</p></li> </ol>
+<li><p>EM <b>Airoldi</b> (2003) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=3363315757275346877&btnI=1&hl=en">Advances in network tomography</a>, <b><i>Carnegie Mellon University. Center for Automated Learning and Discovery</i></b>, . (4 cit.)</p></li> 
+</ol>
 
 
 **Edited Books, Monographs, and Book-Lenngh Articles**
