@@ -9,9 +9,11 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 **TEST**
 
+<ol reversed>
 <li><p>X Bai, R Padman, E <b>Airoldi</b> (2005) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=1697489505379085742&btnI=1&hl=en">On learning parsimonious models for extracting consumer opinions</a>, <b><i>Proceedings of the</i></b>, 38th Annual Hawaii International Conference on System …. (36 cit.)</p></li>
-
 <li><p>EM <b>Airoldi</b>, WW Cohen, SE Fienberg (2005) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=788661879881096055,4839454723649040170,12788186108121214717&btnI=1&hl=en">Bayesian models for frequent terms in text</a>, <b><i>Proceedings of the Classification Society of North America and INTERFACE …</i></b>, . (31 cit.)</p></li>
+</ol>
+
 
 **Selected Publications**   
 
