@@ -13,6 +13,13 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
         h-index:             45              37
         i10-index:           94              76 
 
+<div class="language-plaintext highlighter-rouge" width="100%"><div class="highlight"><pre class="highlight"><code>    Some summary statistics:
+                        All      Since 2016
+    Citaions:        25,215          17,620
+    h-index:             45              37
+    i10-index:           94              76 
+</code></pre></div></div>
+
 <ol reversed>
 <h3><b><u>2020</u></b></h3>
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en" target="_blank">Identification and estimation of treatment and interference effects in observational studies on networks</a> &nbsp;&nbsp;&nbsp; (57 cit.)<br><b><i>Journal of the American Statistical Association</i></b>, 1-18, 2020<br>By L Forastiere, <i><u>EM Airoldi</u></i>, F Mealli</p></li>
