@@ -8,10 +8,10 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 <small><i>&nbsp;&nbsp;(last updated on February 13, 2021)</i></small>
 
         Summary statistics:                                                                               
-                                  All        Since 2016                                                   
-            Citaions:          25,215            17,620                                                   
-            h-index:               45                37                                                   
-            i10-index:             94                76                                                   
+                                      All        Since 2016                                               
+                Citaions:          25,215            17,620                                               
+                h-index:               45                37                                               
+                i10-index:             94                76                                               
 
 <ol reversed>
 <h3><b><u>2020</u></b></h3>
