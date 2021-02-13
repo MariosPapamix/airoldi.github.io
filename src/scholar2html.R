@@ -1,3 +1,6 @@
+# H/T Thomas Hackl, https://thackl.github.io/
+# See https://thackl.github.io/automatically-update-publications-with-R-scholar for how it works.
+
 library(scholar)
 library(tidyverse)
 library(glue)
@@ -15,7 +18,7 @@ char2html <- function(x){
 }
 
 # my google scholar user id from my profile url
-# https://scholar.google.com/citations?user=b8bWNkUAAAAJ&hl=en
+# https://scholar.google.com/citations?hl=en&user=XKCyZk0AAAAJ&view_op=list_works&sortby=pubdate
 user <- "XKCyZk0AAAAJ"
 
 # pull from google
@@ -25,26 +28,29 @@ html_1 <- get_publications(user)
 html_2 <- html_1 %>%
   as_tibble %>% arrange(desc(year)) %>%
   mutate(
-    #    author=str_replace_all(author, " (\\S) ", "\\1 "),
+    # author=str_replace_all(author, " (\\S) ", "\\1 "),
     author=str_replace_all(author, "([A-Z]) ([A-Z]) ", "\\1\\2 "),
     author=str_replace_all(author, ", \\.\\.\\.", " et al."),
-    author=str_replace_all(author, "Airoldi", "<b>Airoldi</b>") # make my name fat
+    author=str_replace_all(author, "Airoldi", "<b>Airoldi</b>"), # make my name fat
+    journal=paste0('<b><i>', journal, '</i></b>') # bold/italkicize pub venues
   ) %>% split(.$year) %>%
   map(function(x){
     x <- x %>%
-      glue_data('<li width="100%">{author} ({year}) <a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en">{title}</a>, {journal}, {number}. ({cites} cites)</li>') %>%
+      glue_data('<li><p>{author} ({year}) <a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en">{title}</a>, {journal}, {number}. ({cites} cit.)</p></li>') %>%
       str_replace_all("(, )+</li>", "</li>") %>%
       char2html()
-    #x <- c('<table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>', x, '</tbody></table>')
+      #x <- c('<table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>', x, '</tbody></table>')
     return(x);
-  }) %>% unlist %>% rev 
+  }) %>% rev 
 
-html_3 <- c('<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">', html_2,'</ol>')
+html_3 <- paste0(map2(names(html_2) %>% paste0("<h3>", ., "</h3>"), html_2, c) %>% unlist, collapse = "\n")
+html_3 <- paste('<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">', html_3,'</ol>')
 
-html_4 <- c(
+html_4 <- 
   paste0('<p style="text-align: center; margin-top: 40px;"><small>Last updated <i>',
          format(Sys.Date(), format="%B %d, %Y"),
-         '&ndash; Pulled automatically from my <a href="https://scholar.google.com/citations?hl=en&user=lZUH1lcAAAAJ">Google Scholar profile</a>. <!--See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.--></i></small></p>'), html_3)
+         '&ndash; Pulled automatically from <a href="https://scholar.google.com/citations?hl=en&user=b8bWNkUAAAAJ">Google Scholar</a>.</i></small></p>', html_3, collapse="")
 
 # write the html list to a file
 writeLines(html_4, "/Volumes/Data/GitHub/airoldi.github.io/src/html4.html")
+
