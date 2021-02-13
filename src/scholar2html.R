@@ -44,7 +44,7 @@ html_2 <- html_1 %>%
   }) %>% rev 
 
 html_3 <- paste0(map2(names(html_2) %>% paste0("<h3>", ., "</h3>"), html_2, c) %>% unlist, collapse = "\n")
-html_3 <- paste('<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">', html_3,'</ol>')
+html_3 <- paste('<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">\n',html_3,'</ol>')
 
 html_4 <- 
   paste0('<p style="text-align: center; margin-top: 40px;"><small>Last updated <i>',
