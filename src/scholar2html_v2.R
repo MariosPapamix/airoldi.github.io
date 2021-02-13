@@ -1,4 +1,4 @@
-# See <a href="https://thackl.github.io/automatically-update-publications-with-R-scholar">this post</a> for how it works.
+# See https://thackl.github.io/automatically-update-publications-with-R-scholar for how it works.
 
 library(scholar)
 library(tidyverse)
@@ -31,11 +31,11 @@ html_2 <- html_1 %>%
     author=str_replace_all(author, "([A-Z]) ([A-Z]) ", "\\1\\2 "),
     author=str_replace_all(author, ", \\.\\.\\.", " et al."),
     author=str_replace_all(author, "T Hackl", "<b>T Hackl</b>"), # make my name fat
-    journal=paste0('<b>', journal, '</b>') # <-- Bold all Journal Titles
+    journal=paste0('<b><i>', journal, '</i></b>') # <-- Bold all Journal Titles
   ) %>% split(.$year) %>%
   map(function(x){
     x <- x %>%
-      glue_data('<li width="100%">{author} ({year}) <a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en">{title}</a>, {cites} Citations, {journal}, {number}</li>') %>%
+      glue_data('<p><li width="100%">{author} ({year}) <a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en">{title}</a>, {journal}, {number}. ({cites} cites)</li></p>') %>%
       str_replace_all("(, )+</li>", "</li>") %>%
       char2html()
       #x <- c('<table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>', x, '</tbody></table>')

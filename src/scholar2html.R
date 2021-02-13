@@ -32,7 +32,7 @@ html_2 <- html_1 %>%
   ) %>% split(.$year) %>%
   map(function(x){
     x <- x %>%
-      glue_data('<li width="100%">{author} ({year}) <a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en">{title}</a>, {cites} Citations, {journal}, {number}</li>') %>%
+      glue_data('<li width="100%">{author} ({year}) <a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en">{title}</a>, {journal}, {number}. ({cites} cites)</li>') %>%
       str_replace_all("(, )+</li>", "</li>") %>%
       char2html()
     #x <- c('<table class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><tbody>', x, '</tbody></table>')
