@@ -6,7 +6,7 @@ permalink: /pubarchive/
 
 Over 150 publications, including refereed workshop and conference publications, can be found on my [Google Scholar profile](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a local copy with link to PDFs (last updated on February 13, 2021).
 
-<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">
+<ol reversed>
  <h3>2020</h3>
 <li><p>L Forastiere, EM <b>Airoldi</b>, F Mealli (2020) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en">Identification and estimation of treatment and interference effects in observational studies on networks</a>, <b><i>Journal of the American Statistical Association</i></b>, 1-18. (57 cit.)</p></li>
 <li><p>P Toulis, T Horel, EM <b>Airoldi</b> (2020) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=2027939308310743828,12935949097048667450&btnI=1&hl=en">The proximal Robbins-Monro method</a>, <b><i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i></b>, . (14 cit.)</p></li>
@@ -181,7 +181,6 @@ Over 150 publications, including refereed workshop and conference publications, 
 <li><p>EM <b>Airoldi</b> (2003) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=11916845835407455972&btnI=1&hl=en">Who Wrote Ronald Reagan's Radio Addresses?</a>, <b><i>Carnegie Mellon University, Department of Statistics</i></b>, . (7 cit.)</p></li>
 <li><p>EM <b>Airoldi</b> (2003) <a href="https://scholar.google.com/scholar?oi=bibs&cluster=3363315757275346877&btnI=1&hl=en">Advances in network tomography</a>, <b><i>Carnegie Mellon University. Center for Automated Learning and Discovery</i></b>, . (4 cit.)</p></li>
 </ol>
-
 
 
 **Edited Books, Monographs, and Book-Lenngh Articles**
