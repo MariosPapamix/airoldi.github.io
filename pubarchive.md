@@ -7,11 +7,11 @@ permalink: /pubarchive/
 A list of my scholarly work can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a local copy linked to PDFs. 
 <small><i>&nbsp;&nbsp;(last updated on February 13, 2021)</i></small>
 
-        Some summary statistics:
-                            All      Since 2016
-        Citaions:        25,215          17,620
-        h-index:             45              37
-        i10-index:           94              76 
+        Some summary statistics:                                                             
+                            All      Since 2016                                              
+        Citaions:        25,215          17,620                                              
+        h-index:             45              37                                              
+        i10-index:           94              76                                               
 
 <div class="language-plaintext highlighter-rouge" width="100%"><div class="highlight"><pre class="highlight"><code>    Some summary statistics:
                         All      Since 2016
