@@ -191,19 +191,11 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 </ol>
 
 
-**Other Scholarly Writings** 
-
-*Discussions*
-
-2.    A Feller✝, EM Airoldi. Discussion of Hennig and Liao “How to find an appropriate clustering for mixed type variables with application to socio-economic stratification”. Journal of the Royal Statistical Society, Series C. 62, 347-349, 2013.
-
-1.    EM Airoldi. Discussion of Handcock, Raftery and Tantrum “Model-based clustering for social networks”. Journal of the Royal Statistical Society, Series A, 170, Part 2, 30-31, 2007. 
-
-*Technical reports*
+**Unpublished technical reports**
 
 1.    T Hashimoto✝, DJ Gresham, D Botstein, EM Airoldi. A linear model framework for genome-scale functional analysis based on the gene ontology. Princeton University, 2009.
 
-*Dissertations*
+**Dissertations**
 
 2.    EM Airoldi. Bayesian mixed-membership models of complex and evolving networks. School of Computer Science, Carnegie Mellon University, 2007. 
 
