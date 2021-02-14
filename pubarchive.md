@@ -190,13 +190,6 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 </ol>
 
 
-**Edited Books, Monographs, and Book-Lenngh Articles**
-
-2.    EM Airoldi, DM Blei, EA Erosheva, SE Fienberg, editors. Handbook of Mixed Membership Mod-els and Their Applications. CRC Press, 2014. 
-
-1.    EM Airoldi, DM Blei, SE Fienberg, EP Xing, editors. Statistical Network Analysis: Models, Is-sues, and New Directions. Lecture Notes in Computer Science, volume 4503. Springer, 2007. 
-
-
 **Other Scholarly Writings** 
 
 *Discussions*
@@ -207,11 +200,7 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 
 *Technical reports*
 
-3.    T Hashimoto✝, DJ Gresham, D Botstein, EM Airoldi. A linear model framework for genome-scale functional analysis based on the gene ontology. Princeton University, 2009.
-
-2.    EM Airoldi. Who Wrote Ronald Reagan's Radio Addresses? Carnegie Mellon University, 2004. 
-
-1.    EM Airoldi. Advances in Network Tomography. Carnegie Mellon University, 2003.
+1.    T Hashimoto✝, DJ Gresham, D Botstein, EM Airoldi. A linear model framework for genome-scale functional analysis based on the gene ontology. Princeton University, 2009.
 
 *Dissertations*
 
