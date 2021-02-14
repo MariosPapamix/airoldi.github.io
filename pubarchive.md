@@ -5,6 +5,7 @@ permalink: /pubarchive/
 ---
 
 A list of my scholarly work can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a local copy linked to PDFs. 
+The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 <small><i>&nbsp;&nbsp;(last updated on February 13, 2021)</i></small>
 
         Summary statistics:                                                                               
@@ -15,7 +16,7 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 
 <ol reversed>
 <h3><b><u>2020</u></b></h3>
-<li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en" target="_blank">Identification and estimation of treatment and interference effects in observational studies on networks</a> &nbsp;&nbsp;&nbsp; (57 cit.)<br><b><i>Journal of the American Statistical Association</i></b>, 1-18, 2020<br>By L Forastiere, <i><u>EM Airoldi</u></i>, F Mealli</p></li>
+<li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en" target="_blank">Identification and estimation of treatment and interference effects in observational studies on networks</a> &nbsp;&nbsp;&nbsp; (57 cit.)<br><b><i>Journal of the American Statistical Association</i></b>, 1-18, 2020<br>By L Forastiere✝, <i><u>EM Airoldi</u></i>, F Mealli</p></li>
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=2027939308310743828,12935949097048667450&btnI=1&hl=en" target="_blank">The proximal Robbins-Monro method</a> &nbsp;&nbsp;&nbsp; (14 cit.)<br><b><i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i></b>, , 2020<br>By P Toulis, T Horel, <i><u>EM Airoldi</u></i></p></li>
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=8033935244448787502&btnI=1&hl=en" target="_blank">Stacking models for nearly optimal link prediction in complex networks</a> &nbsp;&nbsp;&nbsp; (11 cit.)<br><b><i>Proceedings of the National Academy of Sciences</i></b>, 117 (38), 23393-23400, 2020<br>By A Ghasemian, H Hosseinmardi, A Galstyan, <i><u>EM Airoldi</u></i>, A Clauset</p></li>
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=17261058219310532361,902637036610849927&btnI=1&hl=en" target="_blank">Nonstandard conditionally specified models for nonignorable missing data</a> &nbsp;&nbsp;&nbsp; (7 cit.)<br><b><i>Proceedings of the National Academy of Sciences</i></b>, 117 (32), 19045-19053, 2020<br>By AM Franks, <i><u>EM Airoldi</u></i>, DB Rubin</p></li>
