@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Over 150 publications, including refereed workshop and conference publications, can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate), or on this local [archive](https://airoldi.github.io/pubarchive/). 
+Over 150 publications can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate), or on this local [archive](https://airoldi.github.io/pubarchive/). 
 
 
 **Pre-prints**
