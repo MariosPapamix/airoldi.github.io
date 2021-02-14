@@ -4,8 +4,6 @@ title: Archive of Scholarly Work
 permalink: /pubarchive/
 ---
 
-<a name=gsx></a>
-
 A list of my scholarly work can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a local copy linked to PDFs. 
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 <small><i>&nbsp;&nbsp;(last updated on February 13, 2021)</i></small>
@@ -200,7 +198,7 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 </ol>
 
 <br>
-<h3><b><u><a name=oss></a>Open-source Software</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#gsx"><small>Google Scholar archive</small></a><small>)</small></h3> 
+<h3><b><u><a name=oss></a>Open-source Software</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#TOP"><small>Google Scholar archive</small></a><small>)</small></h3> 
 
 8.    SGD, an R package. Implements stochastic approximation methods for parameter estimation. 
 
