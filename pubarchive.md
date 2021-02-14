@@ -192,7 +192,7 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 
 <br>
-<h3><b><u><a name=misc>Unpublished reports</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#TOP"><small>Google Scholar archive</small></a><small>)</small></h3>
+<h3><b><u><a name=misc></a>Unpublished reports</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#top"><small>Google Scholar archive</small></a><small>)</small></h3>
 <!--ul style="list-style-type:none;"-->
 <ul>
 <li><p><a href="" target="_blank">A linear model framework for genome-scale functional analysis based on the gene ontology</a><br><b><i>Princeton University, Lewis-Sigler Institute</i></b>, 2009<br>By T Hashimoto✝, DJ Gresham, D Botstein, <i><u>EM Airoldi</u></i></p></li>
