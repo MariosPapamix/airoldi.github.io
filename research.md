@@ -38,6 +38,8 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 **Selected Publications**   
 
+**Pre-prints**
+
 85.    N Doudchenko, M Zhang✝, E Drynkin, EM Airoldi, V Mirrokni, J Pouget-Abadie. [**Causal inference with bipartite designs**](https://arxiv.org/abs/2010.02108). ***arXiv*** no. 2010.02108, 2020.
 
 84.    D Tran✝, P Toulis✝, EM Airoldi. [**Stochastic gradient descent methods for parameter estimation at scale**](https://cran.r-project.org/web/packages/sgd/vignettes/sgd-jss.pdf). ***Journal of Statistical Software***. In press, 2020.

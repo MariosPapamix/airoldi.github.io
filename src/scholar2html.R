@@ -73,19 +73,22 @@ html_2_res <- html_1 %>%
   ) %>% split(.$year) %>%
   map(function(x){
     x <- x %>%
-      glue_data('<li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en" target="_blank">{title}</a>, {journal}, {number}, {year}. &nbsp; ({cites} cit.)</p></li>') %>%
+      glue_data('<li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster={cid}&btnI=1&hl=en" target="_blank">{title}</a>, {journal}, {year}. &nbsp; ({cites} cit.)</p></li>') %>%
       str_replace_all("(, )+</li>", "</li>") %>%
       char2html()
     return(x);
   }) %>% rev 
 
-html_3_res <- paste0(map2(names(html_2) %>% paste0("<h3>", ., "</h3>"), html_2_res, c) %>% unlist, collapse = "\n")
+html_3_res <- paste0(map2(names(html_2_res) %>% paste0("<h3>", ., "</h3>"), html_2_res, c) %>% unlist, collapse = "\n")
 html_3_res <- paste('<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame=""><br>',html_3_res,'</ol>')
 
 html_4_res <- 
   paste0('<p style="text-align: center; margin-top: 40px;"><small>Last updated <i>',
          format(Sys.Date(), format="%B %d, %Y"),
-         '&ndash; Pulled automatically from <a href="https://scholar.google.com/citations?hl=en&user=b8bWNkUAAAAJ">Google Scholar</a>.</i></small></p>', html_3_res, collapse="")
+         '&ndash; Pulled automatically from <a href="https://scholar.google.com/citations?hl=en&user=b8bWNkUAAAAJ">Google Scholar</a>.</i></small></p>
+         <p>Citaions: ',sum(html_1$cites),'<br>
+         h-index: ',sum(sort(html_1$cites, decreasing=TRUE)>=seq(length(html_1$cites))),'<br>
+         i10-index: ',sum(html_1$cites>=10),'</p>', html_3_res, collapse="")
 
 # write the html list to a file
 writeLines(html_4_res, "/Volumes/Data/GitHub/airoldi.github.io/src/html4_res.html")
