@@ -8,11 +8,11 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
 <small><i>&nbsp;&nbsp;(last updated on February 13, 2021)</i></small>
 
-        Summary statistics:                                                                               
+      Summary statistics                                                                                  
                                       All        Since 2016                                               
                 Citaions:          25,243            17,648                                               
-                h-index:               45                37                                               
-                i10-index:             94                76                                               
+                 h-index:              45                37                                               
+               i10-index:              94                76                                               
 
 <ol reversed>
 <h3><b><u>2020</u></b></h3>
