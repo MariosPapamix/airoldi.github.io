@@ -46,7 +46,7 @@ html_2_arx <- html_1 %>%
     return(x);
   }) %>% rev 
 
-html_3_arx <- paste0(map2(names(html_2) %>% paste0("<h3><b><u>", ., "</u></b></h3>"), html_2_arx, c) %>% unlist, collapse = "\n")
+html_3_arx <- paste0(map2(names(html_2_arx) %>% paste0("<h3><b><u>", ., "</u></b></h3>"), html_2_arx, c) %>% unlist, collapse = "\n")
 html_3_arx <- paste('<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">\n',html_3_arx,'</ol>')
 
 html_4_arx <- 
