@@ -10,11 +10,11 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
       Summary statistics                                                                                  
                                       All        Since 2016                                               
-                Citaions:          25,243            17,648                                               
+                Citaions:          25,241            17,647                                               
                  h-index:              45                37                                               
                i10-index:              94                76                                               
 
-<h3><b><u>Google Scholar archive</u></b> &nbsp;&nbsp;&nbsp; <small>(</small><a href="#oss"><small>Open-source software</small></a><small>)</small></h3>
+<h3><b><u>Google Scholar archive</u></b> &nbsp;&nbsp;&nbsp; <small>(</small><a href="#misc"><small>Unpublished reports</small></a><small>)</small></h3>
 <ol reversed>
 <h3><b><u>2020</u></b></h3>
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en" target="_blank">Identification and estimation of treatment and interference effects in observational studies on networks</a> &nbsp;&nbsp;&nbsp; (57 cit.)<br><b><i>Journal of the American Statistical Association</i></b>, 1-18, 2020<br>By L Forastiere, <i><u>EM Airoldi</u></i>, F Mealli</p></li>
@@ -192,29 +192,10 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 
 <br>
-<h3><b><u>Unpublished reports</u></b></h3>
+<h3><b><u><a name=misc>Unpublished reports</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#TOP"><small>Google Scholar archive</small></a><small>)</small></h3>
 <!--ul style="list-style-type:none;"-->
 <ul>
 <li><p><a href="" target="_blank">A linear model framework for genome-scale functional analysis based on the gene ontology</a><br><b><i>Princeton University, Lewis-Sigler Institute</i></b>, 2009<br>By T Hashimoto✝, DJ Gresham, D Botstein, <i><u>EM Airoldi</u></i></p></li>
 <li><p><a href="" target="_blank">Weak convergence of probability measures, with an application to Girone-Cifarelli (in Italian)</a><br><b><i>Bocconi University, Institute for Quantitative Methods</i></b>, 1998<br><i><u>EM Airoldi</u></i></p></li>
 </ul>
-
-<br>
-<h3><b><u><a name=oss></a>Open-source Software</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#TOP"><small>Google Scholar archive</small></a><small>)</small></h3> 
-
-8.    SGD, an R package. Implements stochastic approximation methods for parameter estimation. 
-
-7.    iGraph 1.0.0, an R package, and Python and C libraries. Implements methods to analyze graphs.
-
-6.    ABQuant, R functions, and Python and C libraries. Implements methods for estimating absolute protein concentrations from Mass Spectrometry data. (Single processor and MPI.)
-
-5.    CPlate, R functions, and Python and C libraries. Implements methods for estimating nucleosomes insertions, deletions, and their primary and alternative positions within a population of cells from paired-end mRNA-sequencing data. (Single processor and MPI.)
-
-4.    MISO, Python and C libraries. Implements methods for estimating expression of alternatively spliced isoforms from paired-end mRNA-sequencing data. (Single processor and MPI.)
-
-3.    TPE, an R package. Implements tree preserving embedding.
-
-2.    networkTomography, an R package. Implements methods for estimating latent time series on a graph, including those published in JASA. Includes 3 data sets of point-to-point time series. 
-
-1.    Tetrahedron 3D, a JAVA applet to explore the geometry of 2x2 contingency tables. 
 

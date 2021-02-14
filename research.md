@@ -52,7 +52,8 @@ Over 150 publications can be found on [Google Scholar](http://scholar.google.com
 1.    EM Airoldi. Weak convergence of probability measures, with an application to Girone-Cifarelli (in Italian). Institute for Quantitative Methods, Bocconi University, 1998. 
 
 
-**Open-Source Software** 
+<br>
+<h3><b><u><a name=oss></a>Open-source Software</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#TOP"><small>Google Scholar archive</small></a><small>)</small></h3> 
 
 8.    SGD, an R package. Implements stochastic approximation methods for parameter estimation. 
 
