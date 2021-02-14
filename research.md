@@ -34,6 +34,13 @@ Over 150 publications can be found on [Google Scholar](http://scholar.google.com
 </ol>
 
 
+**Patents**
+
+<ol reversed>
+...
+</ol>
+
+
 **Open-Source Software**
 
 <ol reversed>
@@ -44,10 +51,6 @@ Over 150 publications can be found on [Google Scholar](http://scholar.google.com
 **Other Scholarly Writings** 
 
 4.    T Hashimoto✝, DJ Gresham, D Botstein, EM Airoldi. A linear model framework for genome-scale functional analysis based on the gene ontology. Princeton University, 2009.
-
-3.    EM Airoldi. Who Wrote Ronald Reagan's Radio Addresses? Carnegie Mellon University, 2004. 
-
-2.    EM Airoldi. Advances in Network Tomography. Carnegie Mellon University, 2003.
 
 1.    EM Airoldi. Weak convergence of probability measures, with an application to Girone-Cifarelli (in Italian). Institute for Quantitative Methods, Bocconi University, 1998. 
 
