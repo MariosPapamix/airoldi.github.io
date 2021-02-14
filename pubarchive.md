@@ -192,10 +192,10 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 
 <br>
-<h3><b><u><a name=misc></a>Unpublished reports</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#top"><small>Google Scholar archive</small></a><small>)</small></h3>
+<h3><b><u><a name=misc></a>Unpublished reports</u></b>  &nbsp;&nbsp;&nbsp; <small>(</small><a href="#"><small>Google Scholar archive</small></a><small>)</small></h3>
 <!--ul style="list-style-type:none;"-->
 <ul>
 <li><p><a href="" target="_blank">A linear model framework for genome-scale functional analysis based on the gene ontology</a><br><b><i>Princeton University, Lewis-Sigler Institute</i></b>, 2009<br>By T Hashimoto✝, DJ Gresham, D Botstein, <i><u>EM Airoldi</u></i></p></li>
-<li><p><a href="">Weak convergence of probability measures, with an application to Girone-Cifarelli</a> (in Italian)<br><b><i>Bocconi University, Institute for Quantitative Methods</i></b>, 1998<br><i><u>EM Airoldi</u></i></p></li>
+<li><p><a href="#0">Weak convergence of probability measures, with an application to Girone-Cifarelli</a> (in Italian)<br><b><i>Bocconi University, Institute for Quantitative Methods</i></b>, 1998<br><i><u>EM Airoldi</u></i></p></li>
 </ul>
 
