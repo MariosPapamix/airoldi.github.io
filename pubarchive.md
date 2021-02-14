@@ -189,8 +189,6 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=3363315757275346877&btnI=1&hl=en" target="_blank">Advances in network tomography</a> &nbsp;&nbsp;&nbsp; (4 cit.)<br><b><i>Carnegie Mellon University. Center for Automated Learning and Discovery</i></b>, , 2003<br>By <i><u>EM Airoldi</u></i></p></li> 
 </ol>
 
-<p></p>
-
 
 **Other Scholarly Writings** 
 
