@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Archive of Scholarly Work
+title: Archive of Scholarly Work 
 permalink: /pubarchive/
 ---
+
+<a name=gsx></a>
 
 A list of my scholarly work can be found on [Google Scholar](http://scholar.google.com/citations?user=XKCyZk0AAAAJ&sortby=pubdate). This is a local copy linked to PDFs. 
 The symbol ✝ denotes current/former student/postdoc supervised by me, solely or jointly, when the research was done.
@@ -14,7 +16,7 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
                  h-index:              45                37                                               
                i10-index:              94                76                                               
 
-<h3><b><u><a name=gsx></a>Google Scholar archive</u></b> &nbsp;&nbsp;&nbsp; <small>(</small><a href="#oss"><small>Open-source software</small></a><small>)</small></h3>
+<h3><b><u>Google Scholar archive</u></b> &nbsp;&nbsp;&nbsp; <small>(</small><a href="#oss"><small>Open-source software</small></a><small>)</small></h3>
 <ol reversed>
 <h3><b><u>2020</u></b></h3>
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en" target="_blank">Identification and estimation of treatment and interference effects in observational studies on networks</a> &nbsp;&nbsp;&nbsp; (57 cit.)<br><b><i>Journal of the American Statistical Association</i></b>, 1-18, 2020<br>By L Forastiere, <i><u>EM Airoldi</u></i>, F Mealli</p></li>
