@@ -191,11 +191,10 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 
 
 <h3><b><u>Unpublished reports</u></b></h3>
-
-2.    T Hashimoto✝, DJ Gresham, D Botstein, EM Airoldi. A linear model framework for genome-scale functional analysis based on the gene ontology. Princeton University, 2009.
-
-1.    EM Airoldi. Weak convergence of probability measures, with an application to Girone-Cifarelli (in Italian). Institute for Quantitative Methods, Bocconi University, 1998. 
-
+<ol reverserd>
+<li><p><a href="" target="_blank">A linear model framework for genome-scale functional analysis based on the gene ontology</a><br><b><i>Princeton University, Lewis-Sigler Institute</i></b>, 2009<br>By T Hashimoto✝, DJ Gresham, D Botstein, <i><u>EM Airoldi</u></i></p></li>
+<li><p><a href="" target="_blank">Weak convergence of probability measures, with an application to Girone-Cifarelli (in Italian)</a><br><b><i>Bocconi University, Institute for Quantitative Methods</i></b>, 1998<br><i><u>EM Airoldi</u></i></p></li>
+</ol>
 
 <h3><b><u>Open-Source Software</u></b></h3> 
 
