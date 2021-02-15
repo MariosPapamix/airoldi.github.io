@@ -187,7 +187,7 @@ The symbol ✝ denotes current/former student/postdoc supervised by me, solely o
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=NA&btnI=1&hl=en" target="_blank">Notes on the Negative Binomial distribution for word occurrences</a> &nbsp;&nbsp;&nbsp; (0 cit.)<br><b><i>Carnegie Mellon University, Unpublished note</i></b>, , 2004<br>By <i><u>EM Airoldi</u></i></p></li>
 <h3><b><u>2003</u></b></h3>
 <li><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=11916845835407455972&btnI=1&hl=en" target="_blank">Who Wrote Ronald Reagan's Radio Addresses?</a> &nbsp;&nbsp;&nbsp; (7 cit.)<br><b><i>Carnegie Mellon University, Technical Report CMU-STAT</i></b>, 3 (789), 2003<br>By <i><u>EM Airoldi</u></i></p></li>
-<li><p><a href="../files/pubs/tr001_Airoldi_2003.pdf" target="_blank">Advances in network tomography</a> &nbsp;&nbsp;&nbsp; (4 cit.)<br><b><i>Carnegie Mellon University, Technical Report CMU-CALD</i></b>, 3 (101), 2003<br>By <i><u>EM Airoldi</u></i></p></li>
+<li><p><a href="/files/pubs/tr001_Airoldi_2003.pdf" target="_blank">Advances in network tomography</a> &nbsp;&nbsp;&nbsp; (4 cit.)<br><b><i>Carnegie Mellon University, Technical Report CMU-CALD</i></b>, 3 (101), 2003<br>By <i><u>EM Airoldi</u></i></p></li>
 </ol>
 
 
