@@ -15,7 +15,7 @@ A list of my scholarly work can be found on [Google Scholar](http://scholar.goog
 
 <br>
 <h3><b><u>Google Scholar archive</u></b> &nbsp;&nbsp;&nbsp; <small>(</small><a href="#misc"><small>Other reports</small></a><small>)</small></h3>
-<ol reversed class="publication-table" border="10px solid blue" cellspacing="0" cellpadding="6" rules="", frame="">
+<ol reversed>
  <h3><b><u>2020</u></b></h3>
 <li><table><tr><td style="vertical-align: baseline;"><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=17255514006197194159&btnI=1&hl=en" target="_blank">Identification and estimation of treatment and interference effects in observational studies on networks</a> &nbsp;&nbsp;&nbsp;<br><b><i>Journal of the American Statistical Association</i></b>, 2020<br>By L Forastiere, <i><u>EM Airoldi</u></i>, F Mealli</p></td><td style="vertical-align: baseline;"><p>(57 cit.)</p></td></tr></table></li>
 <li><table><tr><td style="vertical-align: baseline;"><p><a href="https://scholar.google.com/scholar?oi=bibs&cluster=2027939308310743828,12935949097048667450&btnI=1&hl=en" target="_blank">The proximal Robbins-Monro method</a> &nbsp;&nbsp;&nbsp;<br><b><i>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</i></b>, 2020<br>By P Toulis, T Horel, <i><u>EM Airoldi</u></i></p></td><td style="vertical-align: baseline;"><p>(14 cit.)</p></td></tr></table></li>
